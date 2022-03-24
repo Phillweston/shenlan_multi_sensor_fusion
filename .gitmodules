@@ -1,3 +1,6 @@
 [submodule "src/A-LOAM"]
 	path = src/A-LOAM
 	url = https://github.com/HKUST-Aerial-Robotics/A-LOAM
+[submodule "src/LINS---LiDAR-inertial-SLAM"]
+	path = src/LINS---LiDAR-inertial-SLAM
+	url = https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM
