@@ -1,6 +1,12 @@
-[submodule "src/A-LOAM"]
-	path = src/A-LOAM
+[submodule "src/ch2/A-LOAM"]
+	path = src/ch2/A-LOAM
 	url = https://github.com/HKUST-Aerial-Robotics/A-LOAM
-[submodule "src/LINS---LiDAR-inertial-SLAM"]
-	path = src/LINS---LiDAR-inertial-SLAM
+[submodule "src/ch5/LINS---LiDAR-inertial-SLAM"]
+	path = src/ch5/LINS---LiDAR-inertial-SLAM
 	url = https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM
+[submodule "src/ch6/LIO-SAM"]
+	path = src/ch6/LIO-SAM
+	url = https://github.com/TixiaoShan/LIO-SAM
+[submodule "src/ch7/lio-mapping-comment"]
+	path = src/ch7/lio-mapping-comment
+	url = https://github.com/FansaOrz/lio-mapping-comment
